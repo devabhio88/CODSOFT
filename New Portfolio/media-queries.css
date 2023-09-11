@@ -1,0 +1,19 @@
+@media screen and (max-width:991px)
+{
+  .nav-toggle
+  {
+    display: block;
+    margin-right: 20px;
+  }
+  #nav_center{
+    display: none;
+  }
+  #nav>.btn{
+    display: none;
+
+  }
+  #contact>.box1{
+    width: 36%;
+    padding: 0px 50px;
+  }
+}
